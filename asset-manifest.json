@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactlaba/static/css/main.39082de7.css",
+    "main.js": "/reactlaba/static/js/main.9e8ed6a9.js",
+    "static/js/787.148ac466.chunk.js": "/reactlaba/static/js/787.148ac466.chunk.js",
+    "static/media/eustoma.jpg": "/reactlaba/static/media/eustoma.8e5a5d4d807b3e7b88d8.jpg",
+    "static/media/gypsophila.jpg": "/reactlaba/static/media/gypsophila.ea70a52f0470659b7153.jpg",
+    "static/media/Lviv.jpg": "/reactlaba/static/media/Lviv.89d43c964ac7b983e79e.jpg",
+    "static/media/pink_roses.jpg": "/reactlaba/static/media/pink_roses.bdf28b36fd063f89a3f9.jpg",
+    "static/media/lilies_irises.jpg": "/reactlaba/static/media/lilies_irises.61dd788b879332091ab2.jpg",
+    "static/media/peonies.jpg": "/reactlaba/static/media/peonies.e669a24e1d6ca7138ec0.jpg",
+    "static/media/tulips.jpg": "/reactlaba/static/media/tulips.daf97dac29d93668ae2a.jpg",
+    "static/media/red_roses.jpg": "/reactlaba/static/media/red_roses.00f54ea48b940940e18b.jpg",
+    "static/media/chrysantemum.jpg": "/reactlaba/static/media/chrysantemum.796e9f4f5b52b56fee88.jpg",
+    "index.html": "/reactlaba/index.html",
+    "main.39082de7.css.map": "/reactlaba/static/css/main.39082de7.css.map",
+    "main.9e8ed6a9.js.map": "/reactlaba/static/js/main.9e8ed6a9.js.map",
+    "787.148ac466.chunk.js.map": "/reactlaba/static/js/787.148ac466.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39082de7.css",
+    "static/js/main.9e8ed6a9.js"
+  ]
+}
